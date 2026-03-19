@@ -1,4 +1,4 @@
-![GOsa² dashboard](https://github.com/gonicus/.github/blob/main/images/headpage.jpg) 
+![GOsa² dashboard](https://github.com/gosa-project/.github/blob/main/images/headpage.jpg) 
 
 ## About
 
